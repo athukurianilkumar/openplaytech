@@ -1,4 +1,4 @@
-###  movieDB
+###  OpenPlaymovieDB
 We use Retrofit to consume the MovieDb Api. We choose the MVVM Architechure with ViewModel, LiveData/Flow, Coroutines and Room Database.
 For Dependency Injection we are using [Hilt](https://developer.android.com/training/dependency-injection/hilt-android).
 
