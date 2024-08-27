@@ -12,11 +12,3 @@ The user can add a movie/tv-series as a favourite to his/her Watchlist. The favo
 If you like to run this project, you have to get an api key from https://developers.themoviedb.org/3/getting-started/introduction
 and replace at Definitions class the variable API_KEY with your api key.
 
-<br><b>Home Activity</b><br>
-![alt tag](https://user-images.githubusercontent.com/21217572/65449578-f076bf80-de43-11e9-8ef7-e2c0fe9f99d8.png)
-
-<br><b>Watchlist</b><br>
-![alt tag](https://user-images.githubusercontent.com/21217572/65449579-f076bf80-de43-11e9-8195-e5205206d28f.png)
-
-<br><b>Details</b><br>
-![alt tag](https://user-images.githubusercontent.com/21217572/65449577-f076bf80-de43-11e9-99f0-288cd33e380c.png)
