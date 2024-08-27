@@ -78,7 +78,6 @@ fun HomeScreen(
     Column(
         Modifier
             .fillMaxSize()
-//            .background(MaterialTheme.colorScheme.primary)
     ) {
 
         ToolbarCenterAligned {
