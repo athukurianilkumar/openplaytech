@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OpenPlay</string>
+
+    <!-- Common -->
+    <string name="no_data">No results found</string>
+    <string name="ok">OK</string>
+    <string name="generic_error">A problem occurred</string>
+    <string name="dialog_title">Oops</string>
+    <string name="no_internet">Internet connection not found</string>
+    <string name="general_dash">-</string>
+
+    <!-- Home -->
+    <string name="home_search_title">Search:</string>
+    <string name="home_toolbar_title">OpenPlay</string>
+    <string name="home_rating">Rating:</string>
+    <string name="home_release_data">Release Date:</string>
+
+    <!-- Details -->
+    <string name="details_genre">Genre:</string>
+    <string name="home_empty_field">Please fill in the field</string>
+
+</resources>

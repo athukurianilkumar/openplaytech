@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="@color/colorPrimary"
+    app:contentInsetEnd="@dimen/common_zero_dp"
+    app:contentInsetLeft="@dimen/common_zero_dp"
+    app:contentInsetRight="@dimen/common_zero_dp"
+    app:contentInsetStart="@dimen/common_zero_dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/toolbarTitleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_horizontal"
+            android:maxLines="1"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/common_text_eighteen_sp"
+            android:textStyle="bold"
+            tools:text="MovieDb" />
+
+
+    </RelativeLayout>
+</androidx.appcompat.widget.Toolbar>
